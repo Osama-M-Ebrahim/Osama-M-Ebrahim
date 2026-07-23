@@ -49,7 +49,6 @@ Building clean, scalable and user-friendly mobile applications with Flutter 🚀
   <img src="https://streak-stats.demolab.com?user=Osama-M-Ebrahim&theme=tokyonight&hide_border=true"/>
 </p>
 
----
 ## 📫 Connect with Me
 
 <p align="center">
