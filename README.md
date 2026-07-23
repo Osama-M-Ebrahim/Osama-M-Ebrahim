@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Osama Mohamed</h1>
 
-<h3 align="center">Software Engineer | Flutter Developer</h3>
+<h3 align="center">
+Software Engineer | Flutter Developer
+</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -8,49 +10,37 @@
   </a>
 </p>
 
-I'm a Software Engineer passionate about building high-quality mobile applications using Flutter. I enjoy developing clean, scalable, and user-friendly solutions while continuously learning modern technologies and best software engineering practices.
+<p align="center">
+Building clean, scalable and user-friendly mobile applications with Flutter 🚀
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 📱 Flutter Developer
-- 🏗 Clean Architecture
-- ⚡ Cubit / Bloc State Management
-- 🔥 Firebase
-- 🌐 REST APIs Integration
-- 💾 SQL Databases
-- 💻 Java Desktop Applications
-- 🖥 C++ Desktop Applications
+- 📱 Software Engineer specializing in **Flutter** mobile development.
+- 🏗 Experienced with **Clean Architecture** and scalable application design.
+- ⚡ Strong knowledge of **Cubit / Bloc** state management.
+- 🔥 Experienced with **Firebase Authentication**, **Cloud Firestore**, and **FCM**.
+- 🌐 Skilled in **REST API Integration**.
+- 💾 Good understanding of **SQL Databases**.
+- 💻 Built desktop applications using **Java** and **C++**.
+- 🤝 Currently contributing to a **production Home Services application** for a Saudi client at **TwinTech IT**.
 
 ---
 
 ## 🛠 Tech Stack
 
-### Mobile
-- Flutter
-- Dart
-
-### Backend & Database
-- Firebase
-- REST APIs
-- SQL
-
-### Programming Languages
-- Dart
-- Java
-- C++
-- Python
-
-### Tools
-- Git
-- GitHub
-- Android Studio
-- VS Code
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,java,cpp,python,git,github,androidstudio,vscode,figma,postman,mysql&perline=7" />
+</p>
 
 ---
 
-## 📫 Contact
+## 📫 Connect with Me
 
-- 📧 Email: **om7929752@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/osama-mohamed-0abaaa24b
+<p align="left">
+📧 <strong>Email:</strong> <a href="mailto:om7929752@gmail.com">om7929752@gmail.com</a>
+<br>
+💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/osama-mohamed-0abaaa24b">Osama Mohamed</a>
+</p>
