@@ -37,10 +37,32 @@ Building clean, scalable and user-friendly mobile applications with Flutter 🚀
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Osama-M-Ebrahim&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osama-M-Ebrahim&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Osama-M-Ebrahim&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
 ## 📫 Connect with Me
 
-<p align="left">
-📧 <strong>Email:</strong> <a href="mailto:om7929752@gmail.com">om7929752@gmail.com</a>
-<br>
-💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/osama-mohamed-0abaaa24b">Osama Mohamed</a>
+<p align="center">
+<a href="mailto:om7929752@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/osama-mohamed-0abaaa24b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+---
+
+<p align="center">
+Thanks for visiting my profile ❤️
 </p>
