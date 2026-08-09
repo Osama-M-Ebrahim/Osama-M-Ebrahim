@@ -39,6 +39,45 @@ Building clean, scalable and user-friendly mobile applications with Flutter 🚀
 
 ---
 
+## 📁 Featured Projects
+
+### 📱 Project Name 1 (مثال: Home Services App)
+> وصف قصير للمشروع والميزات الأساسية فيه.
+
+<p align="center">
+  <img src="ضع_رابط_الصورة_الأولى_هنا" width="220" alt="Screen 1" />
+  <img src="ضع_رابط_الصورة_الثانية_هنا" width="220" alt="Screen 2" />
+  <img src="ضع_رابط_الصورة_الثالثة_هنا" width="220" alt="Screen 3" />
+</p>
+
+<p align="center">
+  <b>Tech Used:</b> <code>Flutter</code> • <code>Dart</code> • <code>Bloc/Cubit</code> • <code>REST API</code> • <code>Firebase</code>
+</p>
+
+<p align="center">
+  <a href="ضع_رابط_الـRepository_هنا">🔗 View Code on GitHub</a>
+</p>
+
+<br/>
+
+### 📱 Project Name 2 (مشروع ثانٍ)
+> وصف قصير للمشروع الثاني.
+
+<p align="center">
+  <img src="ضع_رابط_الصورة_الأولى_هنا" width="220" alt="Screen 1" />
+  <img src="ضع_رابط_الصورة_الثانية_هنا" width="220" alt="Screen 2" />
+</p>
+
+<p align="center">
+  <b>Tech Used:</b> <code>Flutter</code> • <code>Clean Architecture</code> • <code>Firebase</code>
+</p>
+
+<p align="center">
+  <a href="ضع_رابط_الـRepository_هنا">🔗 View Code on GitHub</a>
+</p>
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
