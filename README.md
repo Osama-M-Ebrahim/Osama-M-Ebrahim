@@ -79,15 +79,13 @@ Building clean, scalable and user-friendly mobile applications with Flutter 🚀
 > A modern online shopping application delivering a dynamic product browsing, shopping cart, and order checkout experience.
 
 <p align="center">
-  <!-- 1. Splash -->
   <img src="https://github.com/user-attachments/assets/da57be06-8b20-430f-9e5b-dad180d2f430" width="180" style="border-radius: 10px;" alt="Splash Screen" />
-  <!-- 2. Home Screen -->
   <img src="https://github.com/user-attachments/assets/ff7a0991-7184-4bc5-a3bf-fd36a9d251e1" width="180" style="border-radius: 10px;" alt="Home Screen" />
-  <!-- 3. Product Details -->
   <img src="https://github.com/user-attachments/assets/d9a1d0dd-126f-4506-b44e-f9b30246ee75" width="180" style="border-radius: 10px;" alt="Product Details" />
-  <!-- 4. Order Review -->
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5792a2b5-5329-4d0f-bccf-3177e78da4d2" width="180" style="border-radius: 10px;" alt="Cart View" />
   <img src="https://github.com/user-attachments/assets/64d3a9b2-ecc7-4722-9da0-55e5c3a8456b" width="180" style="border-radius: 10px;" alt="Order Review" />
-  <!-- 5. Payment Success -->
   <img src="https://github.com/user-attachments/assets/552e1c12-23f8-4bdd-8ad6-83eda48cb951" width="180" style="border-radius: 10px;" alt="Payment Success" />
 </p>
 
