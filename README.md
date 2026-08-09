@@ -46,10 +46,17 @@ Building clean, scalable and user-friendly mobile applications with Flutter 🚀
 > A comprehensive mobile platform designed for booking and managing home services efficiently with a seamless user experience.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7436edcf-31cb-4e58-9f9c-40897f0a4a91" width="180" style="border-radius: 10px;" alt="Home Services Screen 1" />
-  <img src="https://github.com/user-attachments/assets/a3f418bf-f0d2-4fab-817c-2cd8a7e7086d" width="180" style="border-radius: 10px;" alt="Home Services Screen 2" />
-  <img src="https://github.com/user-attachments/assets/1f576ab9-021c-42c1-aaa6-d3620a9fdc75" width="180" style="border-radius: 10px;" alt="Home Services Screen 3" />
-  <img src="https://github.com/user-attachments/assets/cebab386-f6a3-47dc-b8bc-a64119961061" width="180" style="border-radius: 10px;" alt="Home Services Screen 4" />
+  <!-- 1. Splash Screen -->
+  <img src="https://github.com/user-attachments/assets/7436edcf-31cb-4e58-9f9c-40897f0a4a91" width="180" style="border-radius: 10px;" alt="Splash Screen" />
+  
+  <!-- 2. Onboarding 1 -->
+  <img src="https://github.com/user-attachments/assets/cebab386-f6a3-47dc-b8bc-a64119961061" width="180" style="border-radius: 10px;" alt="Onboarding 1" />
+  
+  <!-- 3. Onboarding 2 -->
+  <img src="https://github.com/user-attachments/assets/1f576ab9-021c-42c1-aaa6-d3620a9fdc75" width="180" style="border-radius: 10px;" alt="Onboarding 2" />
+  
+  <!-- 4. Login / Register -->
+  <img src="https://github.com/user-attachments/assets/a3f418bf-f0d2-4fab-817c-2cd8a7e7086d" width="180" style="border-radius: 10px;" alt="Auth Screen" />
 </p>
 
 #### ✨ Key Features & Tech Highlights:
