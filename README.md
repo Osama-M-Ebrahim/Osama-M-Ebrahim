@@ -75,15 +75,14 @@ Building clean, scalable and user-friendly mobile applications with Flutter 🚀
 > A modern online shopping application delivering a dynamic product browsing, shopping cart, and order checkout experience.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/49888256-a3ec-401c-8956-3d108f52c2d0" width="180" style="border-radius: 10px;" alt="Screen 1" />
-  <img src="https://github.com/user-attachments/assets/9a4b14b5-305c-4fe2-9ccc-16c1ccc89153" width="180" style="border-radius: 10px;" alt="Screen 2" />
-  <img src="https://github.com/user-attachments/assets/268a7614-9854-45d0-af49-0cfc57ee7cbb" width="180" style="border-radius: 10px;" alt="Screen 3" />
-  <img src="https://github.com/user-attachments/assets/8ba86e75-36da-420a-88b0-5b01c6c7b4eb" width="180" style="border-radius: 10px;" alt="Screen 4" />
+  <img src="https://github.com/user-attachments/assets/da57be06-8b20-430f-9e5b-dad180d2f430" width="180" style="border-radius: 10px;" alt="Screen 1" />
+  <img src="https://github.com/user-attachments/assets/d9a1d0dd-126f-4506-b44e-f9b30246ee75" width="180" style="border-radius: 10px;" alt="Screen 2" />
+  <img src="https://github.com/user-attachments/assets/552e1c12-23f8-4bdd-8ad6-83eda48cb951" width="180" style="border-radius: 10px;" alt="Screen 3" />
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/eb424234-5688-4c80-a4c6-dd75d189236a" width="180" style="border-radius: 10px;" alt="Screen 5" />
-  <img src="https://github.com/user-attachments/assets/2a0656a9-949c-4dd5-85fe-556435e8183f" width="180" style="border-radius: 10px;" alt="Screen 6" />
-  <img src="https://github.com/user-attachments/assets/2b19ca36-048e-44e4-bdae-c73f78f9c6a6" width="180" style="border-radius: 10px;" alt="Screen 7" />
+  <img src="https://github.com/user-attachments/assets/5792a2b5-5329-4d0f-bccf-3177e78da4d2" width="180" style="border-radius: 10px;" alt="Screen 4" />
+  <img src="https://github.com/user-attachments/assets/64d3a9b2-ecc7-4722-9da0-55e5c3a8456b" width="180" style="border-radius: 10px;" alt="Screen 5" />
+  <img src="https://github.com/user-attachments/assets/ff7a0991-7184-4bc5-a3bf-fd36a9d251e1" width="180" style="border-radius: 10px;" alt="Screen 6" />
 </p>
 
 #### ✨ Key Features & Tech Highlights:
@@ -107,9 +106,9 @@ Building clean, scalable and user-friendly mobile applications with Flutter 🚀
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Osama-M-Ebrahim&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Osama-M-Ebrahim&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Osama-M-Ebrahim&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osama-M-Ebrahim&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
