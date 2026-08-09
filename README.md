@@ -109,11 +109,41 @@ Building clean, scalable and user-friendly mobile applications with Flutter 🚀
 
 ---
 
+### 🏥 3. Hospital Management System (Desktop App)
+> A comprehensive desktop application designed to streamline healthcare facilities, medical records, and department workflows.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/33eada7a-b040-43e2-adce-0d9e83bf1664" width="400" style="border-radius: 8px;" alt="Dashboard" />
+  <img src="https://github.com/user-attachments/assets/1dc51499-d21c-48d4-ad81-82682ecb94fa" width="400" style="border-radius: 8px;" alt="Module View" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4f08a196-e575-426f-be70-6fde8e72b99a" width="400" style="border-radius: 8px;" alt="Records View" />
+  <img src="https://github.com/user-attachments/assets/bef506bd-a0e6-4dc9-bb06-ef55e8d255fc" width="400" style="border-radius: 8px;" alt="System Details" />
+</p>
+
+#### ✨ Key Features & Tech Highlights:
+- ⚙️ **Core System:** Built with **C++** implementing robust **Object-Oriented Programming (OOP)** principles.
+- 🖥️ **Desktop UI:** Interactive and responsive GUI developed using **Qt Framework**.
+- 🗄️ **Database Integration:** Local database management powered by **SQLite** for reliable patient/doctor data storage.
+- 📊 **Management Modules:** Includes patient records, doctor scheduling, department tracking, and real-time statistics.
+
+<p align="center">
+  <b>Tech Stack:</b> <code>C++</code> • <code>Qt Framework</code> • <code>SQLite</code> • <code>OOP</code> • <code>Desktop Development</code>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Osama-M-Ebrahim/Qt-Gui-Hospital-main">
+    <img src="https://img.shields.io/badge/GitHub_Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.oxro.dev/api?username=Osama-M-Ebrahim&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.oxro.dev/api/top-langs/?username=Osama-M-Ebrahim&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Osama-M-Ebrahim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osama-M-Ebrahim&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
