@@ -46,16 +46,13 @@ Building clean, scalable and user-friendly mobile applications with Flutter 🚀
 > A comprehensive mobile platform designed for booking and managing home services efficiently with a seamless user experience.
 
 <p align="center">
-  <!-- 1. Splash Screen -->
+  <!-- Splash -->
   <img src="https://github.com/user-attachments/assets/7436edcf-31cb-4e58-9f9c-40897f0a4a91" width="180" style="border-radius: 10px;" alt="Splash Screen" />
-  
-  <!-- 2. Onboarding 1 -->
+  <!-- Onboarding 1 -->
   <img src="https://github.com/user-attachments/assets/cebab386-f6a3-47dc-b8bc-a64119961061" width="180" style="border-radius: 10px;" alt="Onboarding 1" />
-  
-  <!-- 3. Onboarding 2 -->
+  <!-- Onboarding 2 -->
   <img src="https://github.com/user-attachments/assets/1f576ab9-021c-42c1-aaa6-d3620a9fdc75" width="180" style="border-radius: 10px;" alt="Onboarding 2" />
-  
-  <!-- 4. Login / Register -->
+  <!-- Auth Screen -->
   <img src="https://github.com/user-attachments/assets/a3f418bf-f0d2-4fab-817c-2cd8a7e7086d" width="180" style="border-radius: 10px;" alt="Auth Screen" />
 </p>
 
@@ -82,14 +79,16 @@ Building clean, scalable and user-friendly mobile applications with Flutter 🚀
 > A modern online shopping application delivering a dynamic product browsing, shopping cart, and order checkout experience.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/da57be06-8b20-430f-9e5b-dad180d2f430" width="180" style="border-radius: 10px;" alt="Screen 1" />
-  <img src="https://github.com/user-attachments/assets/d9a1d0dd-126f-4506-b44e-f9b30246ee75" width="180" style="border-radius: 10px;" alt="Screen 2" />
-  <img src="https://github.com/user-attachments/assets/552e1c12-23f8-4bdd-8ad6-83eda48cb951" width="180" style="border-radius: 10px;" alt="Screen 3" />
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5792a2b5-5329-4d0f-bccf-3177e78da4d2" width="180" style="border-radius: 10px;" alt="Screen 4" />
-  <img src="https://github.com/user-attachments/assets/64d3a9b2-ecc7-4722-9da0-55e5c3a8456b" width="180" style="border-radius: 10px;" alt="Screen 5" />
-  <img src="https://github.com/user-attachments/assets/ff7a0991-7184-4bc5-a3bf-fd36a9d251e1" width="180" style="border-radius: 10px;" alt="Screen 6" />
+  <!-- 1. Splash -->
+  <img src="https://github.com/user-attachments/assets/da57be06-8b20-430f-9e5b-dad180d2f430" width="180" style="border-radius: 10px;" alt="Splash Screen" />
+  <!-- 2. Home Screen -->
+  <img src="https://github.com/user-attachments/assets/ff7a0991-7184-4bc5-a3bf-fd36a9d251e1" width="180" style="border-radius: 10px;" alt="Home Screen" />
+  <!-- 3. Product Details -->
+  <img src="https://github.com/user-attachments/assets/d9a1d0dd-126f-4506-b44e-f9b30246ee75" width="180" style="border-radius: 10px;" alt="Product Details" />
+  <!-- 4. Order Review -->
+  <img src="https://github.com/user-attachments/assets/64d3a9b2-ecc7-4722-9da0-55e5c3a8456b" width="180" style="border-radius: 10px;" alt="Order Review" />
+  <!-- 5. Payment Success -->
+  <img src="https://github.com/user-attachments/assets/552e1c12-23f8-4bdd-8ad6-83eda48cb951" width="180" style="border-radius: 10px;" alt="Payment Success" />
 </p>
 
 #### ✨ Key Features & Tech Highlights:
@@ -113,9 +112,8 @@ Building clean, scalable and user-friendly mobile applications with Flutter 🚀
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Osama-M-Ebrahim&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osama-M-Ebrahim&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.oxro.dev/api?username=Osama-M-Ebrahim&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.oxro.dev/api/top-langs/?username=Osama-M-Ebrahim&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
